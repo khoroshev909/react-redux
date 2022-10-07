@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Updated Post Title",
+      "body": "Updated Post Body"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "body": "body-sson-server"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "body": "body-sson-server"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "body": "body-sson-server"
+    },
+    {
+      "id": 6,
+      "title": "json-server",
+      "body": "body-sson-server"
+    },
+    {
+      "id": 7,
+      "title": "json-server",
+      "body": "body-sson-server"
+    },
+    {
+      "id": 8,
+      "title": "json-server",
+      "body": "body-sson-server"
+    },
+    {
+      "id": 9,
+      "title": "json-server",
+      "body": "body-sson-server"
+    },
+    {
+      "title": "New Post Title",
+      "body": "New Post Body",
+      "id": 10
+    },
+    {
+      "title": "New Post Title",
+      "body": "New Post Body",
+      "id": 11
+    },
+    {
+      "title": "New Post Title",
+      "body": "New Post Body",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "title": "Updated Post Title",
+      "body": "Updated Post Body"
+    }
+  ]
+}
